@@ -337,9 +337,11 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191211191659.2">## SolveSpace
 
-&lt;small&gt;
+&lt;/small&gt;
 [操作練習](https://s40723141.github.io/cad2019/content/Solvespace_tutorial.html)
-[編譯](https://s40723141.github.io/cad2019/content/Solvespace_compiled.html)
+
+&lt;/small&gt;
+[編譯影片](https://s40723141.github.io/cad2019/content/Solvespace_compiled.html)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
