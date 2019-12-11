@@ -21,6 +21,9 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20191211191659.1"><vh>SolveSpace</vh>
+<v t="leo.20191211191659.2"><vh>SolveSpace內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -323,5 +326,25 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191211191659.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191211191659.2">## SolveSpace
+
+&lt;small&gt;
+[操作練習](https://s40723141.github.io/cad2019/content/Solvespace_tutorial.html)
+[編譯](https://s40723141.github.io/cad2019/content/Solvespace_compiled.html)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
 </tnodes>
 </leo_file>
